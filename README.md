@@ -1,5 +1,7 @@
 # perfectlytimedphotos-crawler-4fun
-perfectlytimedphotos crawler 4fun (just training...)
+perfectlytimedphotos crawler 4fun (just training)  
+
+If I do something wrong, or there is a better way, please tell me.  
 
 
 
